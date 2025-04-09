@@ -20,7 +20,7 @@
 - 🔬 연구 주제  
   &nbsp;&nbsp;• 멀티‑뷰 열화상 카메라 캘리브레이션  
   &nbsp;&nbsp;• Homography + PnP 문제 딥러닝 접근
-</div>
+
 <!-- ────────── 기술 스택 ────────── -->
 ## 🛠️ Tech Stacks
 <div align="center">
@@ -63,5 +63,5 @@
 <!-- theme=transparent 으로 다크/라이트 모두 자연스럽게 -->
 <img src="https://github-readme-stats.vercel.app/api?username=cozyrim&theme=transparent&hide_title=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozyrim&layout=compact&theme=transparent">
-
+</div>
 </div>
