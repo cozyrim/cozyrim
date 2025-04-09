@@ -1,9 +1,15 @@
 <!-- ────────── 헤더(다크/라이트 자동 전환) ────────── -->
 <p align="center">
   <picture>
-    <source srcset="assets/header-dark.svg" media="(prefers-color-scheme: dark)">
-    <source srcset="assets/bell.gif"        media="(prefers-color-scheme: light)">
-    <img src="https://raw.githubusercontent.com/cozyrim/cozyrim/main/assets/bell.gif" width="600" alt="채림 인사 헤더">
+    <!-- 다크 모드용 -->
+    <source srcset="https://raw.githubusercontent.com/cozyrim/cozyrim/main/assets/header-dark.svg"
+            media="(prefers-color-scheme: dark)">
+    <!-- 라이트 모드용 -->
+    <source srcset="https://raw.githubusercontent.com/cozyrim/cozyrim/main/assets/bell.gif"
+            media="(prefers-color-scheme: light)">
+    <!-- 폴백 (라이트) -->
+    <img src="https://raw.githubusercontent.com/cozyrim/cozyrim/main/assets/bell.gif"
+         width="600" alt="채림 인사 헤더">
   </picture>
 </p>
 
