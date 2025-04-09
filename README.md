@@ -1,17 +1,16 @@
 <!-- ────────── 헤더(다크/라이트 자동 전환) ────────── -->
 <p align="center">
   <picture>
-    <!-- 다크 모드용 -->
     <source srcset="assets/header-dark.svg" media="(prefers-color-scheme: dark)">
-    <!-- 라이트 모드용 -->
     <source srcset="assets/bell.gif"        media="(prefers-color-scheme: light)">
-    <!-- 폴백(라이트) -->
-    <img src="assets/bell.gif" width="100%" alt="채림 인사 헤더">
+    <img src="assets/bell.gif" width="600" alt="채림 인사 헤더">
   </picture>
 </p>
 
 <!-- ────────── 소개 ────────── -->
-<h2 align="center">🌱 채림의 GitHub</h2>
+<h3 align="center">🌱 채림의 GitHub</h3>
+
+<p align="center">.・。.・゜✭・.・✫・゜・。. .・。.・゜✭・.・.・。.・゜✭・.・✫・゜・。. .・。.・゜✭・.・.・。.・゜✭</p>
 
 <div align="center">
 
@@ -24,7 +23,8 @@
 </div>
 
 <!-- ────────── 기술 스택 ────────── -->
-<h2 align="center">🛠️ Tech Stacks</h2>
+<h3 align="center">🛠️ Tech Stacks</h3>
+
 
 <div align="center">
 
@@ -47,7 +47,8 @@
 </div>
 
 <!-- ────────── 연락처 ────────── -->
-<h2 align="center">🧑‍💻 Contact Me</h2>
+<h3 align="center">🧑‍💻 Contact Me</h3>
+
 
 <div align="center">
 
@@ -61,7 +62,9 @@
 </div>
 
 <!-- ────────── GitHub 통계 ────────── -->
-<h2 align="center">🏅 Stats</h2>
+<h3 align="center">🏅 Stats</h3>
+
+
 
 <div align="center">
 
