@@ -11,6 +11,7 @@
 </p>
 
 <!-- ────────── 소개 ────────── -->
+<div align="center">
 ## 🌱 채림의 GitHub
 
 ### About Me
@@ -19,7 +20,7 @@
 - 🔬 연구 주제  
   &nbsp;&nbsp;• 멀티‑뷰 열화상 카메라 캘리브레이션  
   &nbsp;&nbsp;• Homography + PnP 문제 딥러닝 접근
-
+</div>
 <!-- ────────── 기술 스택 ────────── -->
 ## 🛠️ Tech Stacks
 <div align="center">
