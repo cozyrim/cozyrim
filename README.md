@@ -13,11 +13,11 @@
 
 <div align="center">
 
-💡 컴퓨터비전 &amp; 딥러닝 연구자 지망  
-🔧 현재: ddd (프로젝트·직무 등)  
+💡 컴퓨터비전 &amp; 딥러닝  
+🔧 현재: 계명대학교 컴퓨터공학과  
 🔬 연구 주제  
-&nbsp;&nbsp;• 멀티‑뷰 열화상 카메라 캘리브레이션  
-&nbsp;&nbsp;• Homography + PnP 문제 딥러닝 접근  
+&nbsp;&nbsp;• 3D Vision, SLAM, Gaussian Splatting
+&nbsp;&nbsp;•   
 
 </div>
 
