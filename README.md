@@ -11,18 +11,21 @@
 </p>
 
 <!-- ────────── 소개 ────────── -->
-<div align="center">
-## 🌱 채림의 GitHub
+<h2 align="center">🌱 채림의 GitHub</h2>
 
-### About Me
-- 💡 컴퓨터비전 & 딥러닝 연구자 지망
-- 🔧 현재: ddd (프로젝트·직무 등)
-- 🔬 연구 주제  
-  &nbsp;&nbsp;• 멀티‑뷰 열화상 카메라 캘리브레이션  
-  &nbsp;&nbsp;• Homography + PnP 문제 딥러닝 접근
+<div align="center">
+
+💡 컴퓨터비전 &amp; 딥러닝 연구자 지망  
+🔧 현재: ddd (프로젝트·직무 등)  
+🔬 연구 주제  
+&nbsp;&nbsp;• 멀티‑뷰 열화상 카메라 캘리브레이션  
+&nbsp;&nbsp;• Homography + PnP 문제 딥러닝 접근  
+
+</div>
 
 <!-- ────────── 기술 스택 ────────── -->
-## 🛠️ Tech Stacks
+<h2 align="center">🛠️ Tech Stacks</h2>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/C++-00599C?style=social&logo=C%2B%2B">
@@ -44,7 +47,8 @@
 </div>
 
 <!-- ────────── 연락처 ────────── -->
-## 🧑‍💻 Contact Me
+<h2 align="center">🧑‍💻 Contact Me</h2>
+
 <div align="center">
 
 <a href="https://instagram.com/zzaerim">
@@ -57,11 +61,11 @@
 </div>
 
 <!-- ────────── GitHub 통계 ────────── -->
-## 🏅 Stats
+<h2 align="center">🏅 Stats</h2>
+
 <div align="center">
 
-<!-- theme=transparent 으로 다크/라이트 모두 자연스럽게 -->
 <img src="https://github-readme-stats.vercel.app/api?username=cozyrim&theme=transparent&hide_title=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozyrim&layout=compact&theme=transparent">
-</div>
+
 </div>
