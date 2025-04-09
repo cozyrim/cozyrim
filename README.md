@@ -7,21 +7,22 @@
 </p>
 
 <!-- ────────── 소개 ────────── -->
-<h3 align="center">🌱 채림의 GitHub</h3>
+<h3 align="center">🌱 𝑪𝒉𝒂𝒆𝒓𝒊𝒎''𝒔 𝑮𝒊𝒕𝑯𝒖𝒃</h3>
 
 <p align="center">.・。.・゜✭・.・✫・゜・。. .・。.・゜✭・.・.・。.・゜✭・.・✫・゜・。. .・。.・゜✭・.・.・。.・゜✭</p>
 
 <div align="center">
 
-💡 컴퓨터비전 &amp; 딥러닝  
-🔧 현재: 계명대학교 컴퓨터공학과  
-🔬 연구 주제 3D Vision, SLAM, Gaussian Splatting
+💡 <strong>𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘐𝘯𝘵𝘦𝘳𝘦𝘴𝘵</strong> : Computer Vision &amp; Deep Learning  
+🔧 <strong>𝘊𝘶𝘳𝘳𝘦𝘯𝘵</strong> : Keimyung University, Department of Computer Science  
+🔬 <strong>𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘛𝘰𝘱𝘪𝘤𝘴</strong> : 3D Vision · SLAM · Gaussian Splatting  
 
 
 </div>
 
-<!-- ────────── 기술 스택 ────────── -->
-<h3 align="center">🛠️ Tech Stacks</h3>
+
+<!-- ────────── Tech Stacks ────────── -->
+<h4 align="center">🛠️ 𝑇𝑒𝑐ℎ 𝑆𝑡𝑎𝑐𝑘𝑠</h4>
 
 
 <div align="center">
@@ -45,7 +46,7 @@
 </div>
 
 <!-- ────────── 연락처 ────────── -->
-<h3 align="center">🧑‍💻 Contact Me</h3>
+<h4 align="center">🧑‍💻 𝐶𝑜𝑛𝑡𝑎𝑐𝑡 𝑀𝑒</h4>
 
 
 <div align="center">
