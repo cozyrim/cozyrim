@@ -17,7 +17,7 @@
 🔧 현재: 계명대학교 컴퓨터공학과  
 🔬 연구 주제  
 &nbsp;&nbsp;• 3D Vision, SLAM, Gaussian Splatting
-&nbsp;&nbsp;•   
+&nbsp;&nbsp; 
 
 </div>
 
