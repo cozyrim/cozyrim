@@ -1,9 +1,9 @@
-<!-- ────────── 헤더(다크/라이트 자동 전환) ────────── -->
+<!-- ────────── 헤더 ────────── -->
 <p align="center">
-  <picture>
-    <img src="https://raw.githubusercontent.com/cozyrim/cozyrim/main/assets/bell.gif"
-         width="600" alt="채림 인사 헤더">
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/cozyrim/cozyrim/main/assets/bell.gif"
+    alt="채림 인사 헤더"
+    style="width:100%; max-width:600px;">
 </p>
 
 <!-- ────────── 소개 ────────── -->
