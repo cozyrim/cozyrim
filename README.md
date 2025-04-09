@@ -15,9 +15,8 @@
 
 💡 컴퓨터비전 &amp; 딥러닝  
 🔧 현재: 계명대학교 컴퓨터공학과  
-🔬 연구 주제  
-&nbsp;&nbsp;• 3D Vision, SLAM, Gaussian Splatting
-&nbsp;&nbsp; 
+🔬 연구 주제 3D Vision, SLAM, Gaussian Splatting
+
 
 </div>
 
