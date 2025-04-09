@@ -14,7 +14,7 @@
 <div align="center">
 
 💡 <strong>𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘐𝘯𝘵𝘦𝘳𝘦𝘴𝘵</strong> : Computer Vision &amp; Deep Learning  
-🔧 <strong>𝘊𝘶𝘳𝘳𝘦𝘯𝘵</strong> : Keimyung University, Department of Computer Science  
+🔧 <strong>𝘊𝘶𝘳𝘳𝘦𝘯𝘵</strong> : Department of Computer Engineering, Keimyung University 
 🔬 <strong>𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘛𝘰𝘱𝘪𝘤𝘴</strong> : 3D Vision · SLAM · Gaussian Splatting  
 
 
