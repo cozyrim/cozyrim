@@ -3,7 +3,7 @@
   <picture>
     <source srcset="assets/header-dark.svg" media="(prefers-color-scheme: dark)">
     <source srcset="assets/bell.gif"        media="(prefers-color-scheme: light)">
-    <img src="assets/bell.gif" width="600" alt="채림 인사 헤더">
+    <img src="https://raw.githubusercontent.com/assets/bell.gif" width="600" alt="채림 인사 헤더">
   </picture>
 </p>
 
