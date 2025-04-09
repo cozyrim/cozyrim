@@ -3,7 +3,7 @@
      xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
 
   <!-- 배경 GIF -->
-  <image href="https://raw.githubusercontent.com/cozyrim/cozyrim/main/assets/bell.gif"
+  <image href="assets/bell.gif"
          x="0" y="0" width="1280" height="300" />
 
   <!-- 중앙 글자 -->
