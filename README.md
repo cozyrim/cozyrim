@@ -67,22 +67,4 @@
 
 </div>
 
-<!-- ────────── GitHub 통계 ────────── -->
-<h3 align="center">🏅 Stats</h3>
-
-<!-- 첫 번째 카드 -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=cozyrim&theme=transparent&hide_title=true"
-    alt="GitHub Stats"
-  >
-</p>
-
-<!-- 두 번째 카드 (위와 24px 간격) -->
-<p align="center" style="margin-top:24px;">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cozyrim&layout=compact&theme=transparent"
-    alt="Top Languages"
-  >
-</p>
 </div>
