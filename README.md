@@ -8,20 +8,22 @@
 
 <div align="left">
 
-💡 <strong>𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘐𝘯𝘵𝘦𝘳𝘦𝘴𝘵</strong> : Multi-Modal Contrastive Learning, 3D Reconstruction, SLAM <br>
-🔧 <strong>𝘊𝘶𝘳𝘳𝘦𝘯𝘵</strong> : Department of Computer Engineering, Keimyung University   
-🔬 <strong>𝘒𝘦𝘺 𝘗𝘳𝘰𝘫𝘦𝘤𝘵𝘴</strong> 
-1. Estimation of Rotation of Multiple-View Camera with Variation of Feature Sampling Region
-   - Estimated rotation angles by expanding sparse correspondence areas through rotation and sampling-region variation.  
-2. Inference of the relationship between facial expression images and text through zero-shot learning
-   - Inferred semantic relationships between sentence-level descriptions and facial expression images using CLIP-based zero-shot learning.  
+ <strong>𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘐𝘯𝘵𝘦𝘳𝘦𝘴𝘵</strong> : Multi-Modal Contrastive Learning, 3D Reconstruction, SLAM <br>
+ <strong>𝘊𝘶𝘳𝘳𝘦𝘯𝘵</strong> : Department of Computer Engineering, Keimyung University
+<br><br>
 
+ <strong>𝘗𝘶𝘣𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴</strong> 
+1. **[Sampling-Region Variation-Based Rotation Estimation for Multi‐View Images](https://github.com/cozyrim/sparse-correspondence-rotation-estimation)**  
+   Han, C. & Lee, D. (2024). _Journal of the Korean Multimedia Society_, **27**(12), 1445–1452.  
+
+2. **[Inferring Relationships Between Facial Expression Images and Text via Zero-Shot Learning](https://github.com/cozyrim/emotion-retriever)**  
+   Han, C. & Lee, D. (2024, May). _Korea Multimedia Society Spring Conference 2024._
 
 </div>
-
+<br><br>
 
 <!-- ────────── Tech Stacks ────────── -->
-<h4 align="left">🛠️ 𝑇𝑒𝑐ℎ 𝑆𝑡𝑎𝑐𝑘𝑠</h4>
+
 
 
 <div align="left">
@@ -38,7 +40,7 @@
 
 
 </div>
-
+<br><br>
 
 
 <!-- ────────── 연락처 ────────── -->
