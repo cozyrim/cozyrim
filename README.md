@@ -10,7 +10,7 @@
 
  <strong>𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘐𝘯𝘵𝘦𝘳𝘦𝘴𝘵</strong> : Multi-Modal Contrastive Learning, 3D Reconstruction, SLAM <br>
  <strong>𝘊𝘶𝘳𝘳𝘦𝘯𝘵</strong> : Department of Computer Engineering, Keimyung University
-<br><br>
+
 
  <strong>𝘗𝘶𝘣𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴</strong> 
 1. **[Sampling-Region Variation-Based Rotation Estimation for Multi‐View Images](https://github.com/cozyrim/sparse-correspondence-rotation-estimation)**  
@@ -20,7 +20,7 @@
    Han, C. & Lee, D. (2024, May). _Korea Multimedia Society Spring Conference 2024._
 
 </div>
-<br><br>
+
 
 <!-- ────────── Tech Stacks ────────── -->
 
@@ -40,7 +40,7 @@
 
 
 </div>
-<br><br>
+
 
 
 <!-- ────────── 연락처 ────────── -->
