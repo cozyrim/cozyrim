@@ -8,7 +8,7 @@
 
 <div align="left">
 
- <strong>𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘐𝘯𝘵𝘦𝘳𝘦𝘴𝘵</strong> : Multi-Modal Contrastive Learning, 3D Reconstruction, SLAM <br>
+ <strong>𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘐𝘯𝘵𝘦𝘳𝘦𝘴𝘵</strong> :Data Engineering, Cloud Platforms, Streaming Data <br>
  <strong>𝘊𝘶𝘳𝘳𝘦𝘯𝘵</strong> : Department of Computer Engineering, Keimyung University
 
 
