@@ -9,7 +9,7 @@
 <div align="left">
 
  <strong>𝘙𝘦𝘴𝘦𝘢𝘳𝘤𝘩 𝘐𝘯𝘵𝘦𝘳𝘦𝘴𝘵</strong> :Data Engineering, Cloud Platforms, Streaming Data <br>
- <strong>𝘊𝘶𝘳𝘳𝘦𝘯𝘵</strong> : Department of Computer Engineering, Keimyung University
+
 
 
  <strong>𝘗𝘶𝘣𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴</strong> 
