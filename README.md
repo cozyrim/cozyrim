@@ -49,9 +49,9 @@
 
 <div align="">
 
-<a href="mailto:cozyriming@gmail.com">
+<!-- <a href="mailto:cozyriming@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=social&logo=Gmail">
-</a>
+</a> -->
 
 </div>
 
